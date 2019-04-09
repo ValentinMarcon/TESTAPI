@@ -1,7 +1,7 @@
 {
  "name": "acdc",
  "description": "Test an application ACD file.",
- "homepage": "http://emboss.open-bio.org/rel/rel6/apps/acdc.html",
+ "homepage": "http://emboss.open-bxxxxio.org/rel/rel6/apps/acdc.html",
  "biotoolsID": "acdc",
  "biotoolsCURIE": "biotools:acdc",
  "version": [
