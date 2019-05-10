@@ -1,6 +1,6 @@
 {
  "name": "abiview",
- "description": "desc",
+ "description": "Display the trace ",
  "homepage": "http://emboss.open-bio.org/rel/rel6/apps/abiview.html",
  "biotoolsID": "abiview",
  "biotoolsCURIE": "biotools:abiview",
