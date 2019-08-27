@@ -1,14 +1,5 @@
 {
-  "name": "fffff",
+  "name": "",
   "description": "",
-  "homepage": "",
-  "download": [
-    {}
-  ],
-  "editPermission": {
-    "type": "group"
-  },
-  "publication": [
-    {}
-  ]
+  "homepage": ""
 }
